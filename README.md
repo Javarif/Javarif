@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Arif Uysal. Self-learner, self-confident, hardworker, developer to be!
+Graduated from Civil Engineering and studying Software Enginnering Msc.
+Self-learner, self-confident, hardworker, passionate Java developer from Turkey!
 
 - 🔭 I’m currently looking for an intern or a job!
 - 🌱 I’m currently learning Java!
