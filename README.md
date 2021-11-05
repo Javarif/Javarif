@@ -7,5 +7,5 @@ My name is Arif Uysal. Self-learner, self-confident, hardworker, developer to be
 - 📫 How to reach me: arifuysalcbu@gmail.com
 - 📫 How to find me: 
 :office: [LinkedIn](https://www.linkedin.com/in/arifuysall/)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javarif)](https://github.com/javarif/github-readme-stats)
