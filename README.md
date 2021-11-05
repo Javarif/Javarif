@@ -8,4 +8,4 @@ My name is Arif Uysal. Self-learner, self-confident, hardworker, developer to be
 - 📫 How to find me: 
 :office: [LinkedIn](https://www.linkedin.com/in/arifuysall/)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/javarif/github-readme-stats)
