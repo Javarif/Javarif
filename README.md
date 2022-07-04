@@ -10,4 +10,4 @@ Graduated from Civil Engineering and studying Software Enginnering Msc.
 - 📫 How to find me: 
  [LinkedIn](https://www.linkedin.com/in/arifuysall/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javarif)](https://github.com/javarif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifuysall)](https://github.com/arifuysall/github-readme-stats)
